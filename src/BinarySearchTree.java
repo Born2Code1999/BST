@@ -1,3 +1,4 @@
+//Code inspired from geeksbygeeks.com
 class BinarySearchTree {
 
 //    /* Class containing left and right child of current node and key value*/
